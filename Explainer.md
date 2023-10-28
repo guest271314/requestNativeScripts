@@ -3,7 +3,7 @@ Explainer
 
 **Problem**
 
-A problem that cannot current be solved without using a native application, or if preferred, a shell script.
+A problem that cannot currently be solved without using a native application, or if preferred, a shell script.
 
 **Solution**
 
